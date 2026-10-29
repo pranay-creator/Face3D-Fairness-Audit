@@ -1,0 +1,8 @@
+mediapipe
+datasets
+opencv-python-headless
+numpy
+pandas
+scipy
+matplotlib
+tqdm
